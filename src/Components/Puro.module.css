@@ -1,0 +1,41 @@
+.vegano{
+    width: 100%;
+    height: 130px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+}
+
+.vegano1{
+    width: 24%;
+    height: 80px;
+    margin-top: 30px;
+    margin-left: 180px;
+}
+
+.testes{
+    width: 19%;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 45px;
+}
+
+.hr1{
+    margin: 0;
+    height: 40px;
+    margin-top: 50px;
+}
+
+.hr2{
+    margin: 0;
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.puro{
+width: 19%;
+height: 50px;
+margin-top: 50px;
+margin-left: 40px;
+}

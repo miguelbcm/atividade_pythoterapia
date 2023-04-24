@@ -1,0 +1,517 @@
+
+.section_principal{
+    width: 100%;
+    height: 2000px;
+    
+}
+
+/*Inicio da primeira linha de produtos = .section_produto*/
+.section_produto{
+    width: 100%;
+    height: 455px;
+    display: flex;
+    flex-direction: row;
+    gap: 27px;
+}
+
+/* Inicio Lavanda*/
+.fundo_produtos1{
+    width: 290px;
+    height: 330px;
+    margin-left: 45px;
+    background-color: #ebebeb;
+    cursor: pointer;
+}
+
+.texto_lavanda{
+    font-size: 18px;
+    margin-top: 27px;
+    font-weight: 500;
+}
+
+.preco_lavanda{
+    font-size: 18px;
+    margin-top: -18px;
+    color: green;
+    font-weight: 700;
+}
+
+.juros_lavanda{
+    margin-top: -18px;
+    font-size: 17.5px;
+}
+
+/* Fim Lavanda*/
+
+/*Inicio Gerãnio*/
+
+.fundo_produtos2{
+    width: 290px;
+    height: 330px;
+    background-color: #ebebeb; 
+    cursor: pointer;
+}
+
+.texto_geranio{
+    font-size: 18px;
+    margin-top: 27px;
+    font-weight: 500;
+}
+
+.preco_geranio{
+    font-size: 18px;
+    margin-top: 24px;
+    color: green;
+    font-weight: 700;
+}
+
+.juros_geranio{
+    margin-top: -18px;
+    font-size: 17.5px;
+}
+
+/*Fim Gerãnio*/
+
+/*inicio alecrim*/
+.fundo_produtos3{
+    width: 290px;
+    height: 330px;   
+    background-color: #ebebeb; 
+    cursor: pointer;
+}
+
+.texto_alecrim{
+    font-size: 18px;
+    margin-top: 27px;
+    font-weight: 500;
+}
+
+.preco_alecrim{
+    font-size: 18px;
+    margin-top: -18px;
+    color: green;
+    font-weight: 700;
+}
+
+.juros_alecrim{
+    margin-top: -18px;
+    font-size: 17.5px;
+}
+
+/*Fim alecrim*/
+
+
+/*inicio Hortela pimenta*/
+.fundo_produtos4{
+    width: 290px;
+    height: 330px;   
+    background-color: #ebebeb; 
+    cursor: pointer;
+}
+
+.texto_hortela_pimenta{
+    font-size: 18px;
+    margin-top: 27px;
+    font-weight: 500;
+}
+
+.preco_hortela_pimenta{
+    font-size: 18px;
+    margin-top: -18px;
+    color: green;
+    font-weight: 700;
+}
+
+.juros_hortela_pimenta{
+    margin-top: -18px;
+    font-size: 17.5px;
+}
+
+/*Fim hortela pimenta*/
+
+/*Fim da primeira linha de produtos = .section_produto*/
+
+
+
+/*Inicio da segunda linha de produtos = .section_produto2*/
+.section_produto2{
+    width: 100%;
+    height: 455px;
+    display: flex;
+    flex-direction: row;
+    gap: 27px;
+    margin-top: 45px;
+    margin-left: 45px;
+    cursor: pointer;
+    
+}
+
+/*inicio melaleuca*/
+.fundo_produtos5{
+    width: 290px;
+    height: 330px;  
+    background-color: #ebebeb; 
+    cursor: pointer;
+}
+
+.texto_melaleuca{
+    font-size: 18px;
+    margin-top: 27px;
+    font-weight: 500;
+}
+
+.preco_melaleuca{
+    font-size: 18px;
+    margin-top: -18px;
+    color: green;
+    font-weight: 700;
+}
+
+.juros_melaleuca{
+    margin-top: -18px;
+    font-size: 17.5px;
+}
+
+/*Fim melaleuca*/
+
+/*inicio laranja*/
+.fundo_produtos6{
+    width: 290px;
+    height: 330px;  
+    background-color: #ebebeb; 
+    cursor: pointer;
+}
+
+.texto_laranja{
+    font-size: 18px;
+    margin-top: 27px;
+    font-weight: 500;
+}
+
+.preco_laranja{
+    font-size: 18px;
+    margin-top: -18px;
+    color: green;
+    font-weight: 700;
+}
+
+.juros_laranja{
+    margin-top: -18px;
+    font-size: 17.5px;
+}
+
+/*Fim laranja*/
+
+
+/*inicio eucalipto*/
+.fundo_produtos7{
+    width: 290px;
+    height: 330px;  
+    background-color: #ebebeb; 
+    cursor: pointer;
+}
+
+.texto_eucalipto{
+    font-size: 18px;
+    margin-top: 27px;
+    font-weight: 500;
+}
+
+.preco_eucalipto{
+    font-size: 18px;
+    margin-top: -18px;
+    color: green;
+    font-weight: 700;
+}
+
+.juros_eucalipto{
+    margin-top: -18px;
+    font-size: 17.5px;
+}
+
+/*Fim melaleuca*/
+
+/*inicio bergamota*/
+.fundo_produtos8{
+    width: 290px;
+    height: 330px;  
+    background-color: #ebebeb; 
+    cursor: pointer;
+}
+
+.texto_bergamoto{
+    font-size: 18px;
+    margin-top: 27px;
+    font-weight: 500;
+}
+
+.preco_bergamoto{
+    font-size: 18px;
+    margin-top: -18px;
+    color: green;
+    font-weight: 700;
+}
+
+.juros_bergamoto{
+    margin-top: -18px;
+    font-size: 17.5px;
+}
+
+/*Fim bergamota*/
+
+/*Fim da segunda linha de produtos*/
+
+
+/*Inicio da terceira linha de produtos*/
+.section_produto3{
+    width: 100%;
+    height: 455px;
+    display: flex;
+    flex-direction: row;
+    gap: 27px;
+    margin-top: 45px;
+    margin-left: 45px;
+    
+}
+
+/*inicio lemongrass*/
+.fundo_produtos9{
+    width: 290px;
+    height: 330px;  
+    background-color: #ebebeb; 
+    cursor: pointer;
+}
+
+.texto_lemongrass{
+    font-size: 18px;
+    margin-top: 27px;
+    font-weight: 500;
+}
+
+.preco_lemongrass{
+    font-size: 18px;
+    margin-top: -18px;
+    color: green;
+    font-weight: 700;
+}
+
+.juros_lemongrass{
+    margin-top: -18px;
+    font-size: 17.5px;
+}
+
+/*Fim lemongrass*/
+
+
+/*inicio salvia*/
+.fundo_produtos10{
+    width: 290px;
+    height: 330px;  
+    background-color: #ebebeb; 
+    cursor: pointer;
+}
+
+.texto_salvia{
+    font-size: 18px;
+    margin-top: 27px;
+    font-weight: 500;
+}
+
+.preco_salvia{
+    font-size: 18px;
+    margin-top: -18px;
+    color: green;
+    font-weight: 700;
+}
+
+.juros_salvia{
+    margin-top: -18px;
+    font-size: 17.5px;
+}
+
+/*Fim salvia*/
+
+/*inicio patchouli*/
+.fundo_produtos11{
+    width: 290px;
+    height: 330px;  
+    background-color: #ebebeb; 
+    cursor: pointer;
+}
+
+.texto_patchouli{
+    font-size: 18px;
+    margin-top: 27px;
+    font-weight: 500;
+}
+
+.preco_patchouli{
+    font-size: 18px;
+    margin-top: -18px;
+    color: green;
+    font-weight: 700;
+}
+
+.juros_patchouli{
+    margin-top: 24px;
+    font-size: 17.5px;
+}
+
+/*Fim patchouli*/
+
+/*inicio grapefruit*/
+.fundo_produtos12{
+    width: 290px;
+    height: 330px;  
+    background-color: #ebebeb;
+    cursor: pointer; 
+}
+
+.texto_grapefruit{
+    font-size: 18px;
+    margin-top: 27px;
+    font-weight: 500;
+}
+
+.preco_grapefruit{
+    font-size: 18px;
+    margin-top: -18px;
+    color: green;
+    font-weight: 700;
+}
+
+.juros_grapefruit{
+    margin-top: 24px;
+    font-size: 17.5px;
+}
+
+/*Fim grapefruit*/
+/*fim da terceira linha de produtos*/
+
+
+
+/*inicio da quarta linha de produtos*/
+.section_produto4{
+    width: 100%;
+    height: 455px;
+    display: flex;
+    flex-direction: row;
+    gap: 27px;
+    margin-top: 45px;
+    margin-left: 45px;
+}
+/*inicio manjerona*/
+.fundo_produtos13{
+    width: 290px;
+    height: 330px;  
+    background-color: #ebebeb; 
+    cursor: pointer;
+    
+}
+
+.texto_manjerona{
+    font-size: 18px;
+    margin-top: 27px;
+    font-weight: 500;
+}
+
+.preco_manjerona{
+    font-size: 18px;
+    margin-top: -18px;
+    color: green;
+    font-weight: 700;
+}
+
+.juros_manjerona{
+    margin-top: 24px;
+    font-size: 17.5px;
+}
+
+/*Fim manjerona*/
+
+/*inicio gengibre*/
+.fundo_produtos14{
+    width: 290px;
+    height: 330px;  
+    background-color: #ebebeb; 
+    cursor: pointer;
+   
+}
+
+.texto_gengibre{
+    font-size: 18px;
+    margin-top: 27px;
+    font-weight: 500;
+}
+
+.preco_gengibre{
+    font-size: 18px;
+    margin-top: -18px;
+    color: green;
+    font-weight: 700;
+}
+
+.juros_gengibre{
+    margin-top: 24px;
+    font-size: 17.5px;
+}
+
+/*Fim gengibre*/
+
+/*inicio gerva doce*/
+.fundo_produtos15{
+    width: 290px;
+    height: 330px;  
+    background-color: #ebebeb; 
+    cursor: pointer;
+   
+}
+
+.texto_erva_doce{
+    font-size: 18px;
+    margin-top: 27px;
+    font-weight: 500;
+}
+
+.preco_erva_doce{
+    font-size: 18px;
+    margin-top: -18px;
+    color: green;
+    font-weight: 700;
+}
+
+.juros_erva_doce{
+    margin-top: -18px;
+    font-size: 17.5px;
+}
+
+/*Fim erva_doce*/
+
+/*inicio canela*/
+.fundo_produtos16{
+    width: 290px;
+    height: 330px;  
+    background-color: #ebebeb; 
+    cursor: pointer;
+   
+}
+
+.texto_canela{
+    font-size: 18px;
+    margin-top: 27px;
+    font-weight: 500;
+}
+
+.preco_canela{
+    font-size: 18px;
+    margin-top: -18px;
+    color: green;
+    font-weight: 700;
+}
+
+.juros_canela{
+    margin-top: -18px;
+    font-size: 17.5px;
+}
+
+/*Fim canela*/

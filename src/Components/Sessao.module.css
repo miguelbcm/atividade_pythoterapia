@@ -1,0 +1,23 @@
+section{
+    height: 500px;
+    width: 100%;
+    background-image: url(imagens/img_oleo_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    margin-top: -9px;
+}
+
+.titulo_oleo{
+    margin-top: 90px;
+    color: #fff;
+    margin-left: 40px;
+}
+.texto_img{
+    font-size: 18px;
+    color: #fff;
+    margin-left: 40px;
+    
+    
+}

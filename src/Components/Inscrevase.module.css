@@ -1,0 +1,57 @@
+.fundo_inscrevase{
+    width: 100%;
+    height: 130px;
+    background-color: #f3f1f1;
+   
+}
+
+.inscrevase{
+    display: flex;
+    flex-direction: column;
+}
+
+.inscreva_se{
+    margin-top: 33px;
+    font-size: 20px;
+    margin-left: 180px ;
+}
+
+.receba{
+    margin-left: 180px;
+    margin-top: -18px;
+    font-size: 14px;
+}
+
+.inscreva_input{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.email{
+    width: 500px;
+    height: 45px;
+    border-radius: 40px;
+    border: 1px solid #d9d9d9;
+    margin-left: 410px;
+    margin-top: -65px;
+    padding-left: 30px;
+}
+
+.assinar{
+    width: 18%;
+    height: 35px;
+    background-color: rgb(128, 165, 42);
+    color: #fff;
+    border-radius: 40px;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: -65px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.assinar:hover{
+    background-color: rgb(151, 194, 52);
+}
+
